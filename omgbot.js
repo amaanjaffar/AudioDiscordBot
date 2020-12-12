@@ -44,6 +44,6 @@ client.on('message', async message => {
   });
 
 
-client.login("Nzg0MjM3MDEzODc2MzQyODA2.X8mXog.7rW5gL-DYCjupkcS5LGOGUhfEQA")
+client.login("[enter your bot token here]")
 
 
